@@ -1,43 +1,54 @@
-# <p align="center" style="color:#39ff14;">ErFaN 👾</p>
-
-<p align="center" style="color:#08f7fe;">
-  Full-Stack Developer | Code Ninja in the neon-lit digital city 🌆
+<h1 align="center">Hey 👋 I'm <span style="color:#00bcd4;">ErFaN</span></h1>
+<p align="center">
+  A web & app developer who loves clean code, modern tools, and building cool stuff 💻🚀
 </p>
-
----
-
-### 🛠️ Tech Arsenal
-
-- <span style="color:#ff6ec4;">React</span> · <span style="color:#00fff7;">Next.js</span> · <span style="color:#ff2d95;">TypeScript</span>  
-- <span style="color:#ff6ec4;">PHP</span> · <span style="color:#00fff7;">Laravel</span>  
-- <span style="color:#ff2d95;">Node.js</span> · <span style="color:#ff6ec4;">Electron.js</span> · <span style="color:#00fff7;">React Native</span>  
-- <span style="color:#ff2d95;">Inertia.js</span>  
-- MVC · Clean Architecture · MVVM  
-
----
-
-### ⚡ About Me
-
-I'm a developer navigating the cybernetic landscape, crafting sleek and powerful apps with neon precision.  
-My passion lies in blending performance with style, coding futures one commit at a time.
-
----
-
-### 📂 Projects
-
-> Dive into my repositories and see the future of code today.
-
----
-
-### 📫 Connect with Me
-
-- Telegram & Instagram: [@sfri_erfan](https://t.me/sfri_erfan)  
-- LinkedIn: [its-erfan](https://www.linkedin.com/in/its-erfan/)
-
----
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErfanUsernameHere&show_icons=true&theme=radical" alt="ErFaN's GitHub stats" />
+  <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=windows" />
+  <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat-square&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=typescript" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=itsErfawn" />
 </p>
+
+---
+
+## 🧠 Tech Stack I work with
+
+```js
+Frontend   => React · Next.js · TypeScript · React Native · Inertia.js  
+Backend    => PHP · Laravel · Node.js  
+Desktop    => Electron.js (and ElectronVite if needed)  
+Architect  => MVC · Clean Architecture · MVVM
+```
+
+---
+
+## ✌️ A lil’ about me (EN)
+
+Hey! I’m ErFaN — a dev who’s into crafting apps that **look good, work fast, and scale well**.  
+I like playing with both frontend and backend, and I’m kinda obsessed with **clean architecture** & cool dev workflows 😁  
+
+I work mostly with **JavaScript/TypeScript** and **PHP**, and I enjoy building desktop apps with **Electron**, mobile apps with **React Native**, and web apps with **Next.js** or **Laravel + Inertia**.
+
+Right now? Just trying to build awesome things and learn cooler stuff every day.
+
+---
+
+## 📬 Hit me up
+
+- 🔹 Telegram & Instagram: [@sfri_erfan](https://t.me/sfri_erfan)  
+- 🔹 LinkedIn: [its-erfan](https://www.linkedin.com/in/its-erfan/)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsErfawn&show_icons=true&theme=tokyonight" alt="erfan's github stats" />
+</p>
+
+---
+
+## 🤝 Let's Collaborate
+
+Open to freelance projects, collabs, or just a good tech talk ☕  
