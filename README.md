@@ -14,30 +14,27 @@
 
 ## 🧠 Tech Stack I work with
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Inertia.js-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="Inertia.js" />
-</p>
-
-<p align="center" style="margin-top: 10px;">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-</p>
-
-<p align="center" style="margin-top: 10px;">
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron.js" />
-  <img src="https://img.shields.io/badge/ElectronVite-1E40AF?style=for-the-badge&logo=vite&logoColor=white" alt="ElectronVite" />
-</p>
-
-<p align="center" style="margin-top: 10px;">
-  <img src="https://img.shields.io/badge/MVC-007ACC?style=for-the-badge" alt="MVC" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-00BFFF?style=for-the-badge" alt="Clean Architecture" />
-  <img src="https://img.shields.io/badge/MVVM-FF69B4?style=for-the-badge" alt="MVVM" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></td>
+    <td><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></td>
+    <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></td>
+    <td><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></td>
+    <td><img src="https://img.shields.io/badge/Inertia.js-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="Inertia.js" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></td>
+    <td><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /></td>
+    <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></td>
+    <td><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron.js" /></td>
+    <td><img src="https://img.shields.io/badge/ElectronVite-1E40AF?style=for-the-badge&logo=vite&logoColor=white" alt="ElectronVite" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/MVC-007ACC?style=for-the-badge" alt="MVC" /></td>
+    <td><img src="https://img.shields.io/badge/Clean_Architecture-00BFFF?style=for-the-badge" alt="Clean Architecture" /></td>
+    <td><img src="https://img.shields.io/badge/MVVM-FF69B4?style=for-the-badge" alt="MVVM" /></td>
+  </tr>
+</table>
 
 ---
 
@@ -54,8 +51,7 @@ Right now? Just trying to build awesome things and learn cooler stuff every day.
 
 ## 🌐 Personal Website
 
-> My personal website is coming soon!  
-> Stay tuned 🔜
+[https://sfri_erfan.com](https://sfri_erfan.com)
 
 ---
 
