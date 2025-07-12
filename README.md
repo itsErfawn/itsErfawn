@@ -34,15 +34,6 @@ Right now? Just trying to build awesome things and learn cooler stuff every day.
 
 ---
 
-## ✍️ یه معرفی کوچیک از خودم (FA)
-
-من ErFaN هستم — یه توسعه‌دهنده عاشق کدنویسی تمیز، معماری‌های اصولی و ابزارهای مدرن 😎  
-از کار با React و Next تا Electron و Laravel لذت می‌برم و سعی می‌کنم همیشه پروژه‌هایی بسازم که سریع، زیبا و قابل گسترش باشن.
-
-در حال حاضر دنبال چالش‌های جدید، یادگیری بیشتر و ساختن چیزای خفن‌ام!
-
----
-
 ## 📬 Hit me up
 
 - 🔹 Telegram & Instagram: [@sfri_erfan](https://t.me/sfri_erfan)  
@@ -67,4 +58,3 @@ Right now? Just trying to build awesome things and learn cooler stuff every day.
 ## 🤝 Let's Collaborate
 
 Open to freelance projects, collabs, or just a good tech talk ☕  
-اگه دوست داشتی پروژه‌ای انجام بدی، همکاری کنی یا فقط درباره برنامه‌نویسی گپ بزنیم، پیام بده 😉
