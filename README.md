@@ -47,7 +47,7 @@ Right now? Just trying to build awesome things and learn cooler stuff every day.
 
 ## 🌐 Personal Website
 
-[https://sfri-erfan.vercel.app](https://sfri-erfan.vercel.app)
+[sfri-erfan.vercel.app](https://sfri-erfan.vercel.app)
 
 ---
 
