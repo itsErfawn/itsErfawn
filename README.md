@@ -3,12 +3,6 @@
   A web & app developer who loves clean code, modern tools, and building cool stuff 💻🚀
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=windows" alt="Windows" />
-  <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat-square&logo=visualstudiocode" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=itsErfawn" alt="Visitor Badge" />
-</p>
 
 ---
 
