@@ -1,33 +1,35 @@
-# ErFaN 👋
+# 🚀 Hey there! I'm ErFaN ⚡️
 
-**Full-Stack Developer** specializing in clean, scalable, and efficient web & desktop applications.
-
----
-
-### 🛠️ Tech Stack
-
-- React · Next.js · TypeScript  
-- PHP · Laravel  
-- Node.js · Electron.js · React Native  
-- Inertia.js  
-- MVC · Clean Architecture · MVVM  
+A passionate **Full-Stack Developer** fueled by coffee ☕ and pure code magic!  
+I build blazing-fast web & desktop apps that make people go “WOW!” 🤩
 
 ---
 
-### 🚀 About Me
+### 🛠️ What I Rock With
 
-I'm passionate about writing clean code and building applications that are both performant and maintainable.  
-I enjoy working on frontend and backend, and always keen on learning new technologies and best practices.
+🔥 React · Next.js · TypeScript  
+🔥 PHP · Laravel  
+🔥 Node.js · Electron.js · React Native  
+🔥 Inertia.js  
+🔥 MVC · Clean Architecture · MVVM  
+
+---
+
+### 💥 About Me
+
+Coding is my playground and every line of code is a challenge I love to crush!  
+From frontend sparkle to backend power, I craft apps that don’t just work — they perform with style and speed.  
+Always on the hunt for new tech and ways to level up my skills. Let’s build something epic together! 💪
 
 ---
 
 ### 📂 Projects
 
-> _Check out my pinned repositories on GitHub for examples of my work._
+> Wanna see my magic? Check out my pinned repos and get inspired! ✨
 
 ---
 
-### 📫 Contact Me
+### 📫 Let’s Connect!
 
 - Telegram & Instagram: [@sfri_erfan](https://t.me/sfri_erfan)  
 - LinkedIn: [its-erfan](https://www.linkedin.com/in/its-erfan/)
