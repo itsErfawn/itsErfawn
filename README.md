@@ -33,6 +33,8 @@
     <td><img src="https://img.shields.io/badge/MVC-007ACC?style=for-the-badge" alt="MVC" /></td>
     <td><img src="https://img.shields.io/badge/Clean_Architecture-00BFFF?style=for-the-badge" alt="Clean Architecture" /></td>
     <td><img src="https://img.shields.io/badge/MVVM-FF69B4?style=for-the-badge" alt="MVVM" /></td>
+    <td><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></td>
+    <td><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" /></td>
   </tr>
 </table>
 
