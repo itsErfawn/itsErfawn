@@ -4,22 +4,40 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=windows" />
-  <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat-square&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=typescript" />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=itsErfawn" />
+  <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=windows" alt="Windows" />
+  <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat-square&logo=visualstudiocode" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=itsErfawn" alt="Visitor Badge" />
 </p>
 
 ---
 
 ## 🧠 Tech Stack I work with
 
-```js
-Frontend   => React · Next.js · TypeScript · React Native · Inertia.js  
-Backend    => PHP · Laravel · Node.js  
-Desktop    => Electron.js (and ElectronVite if needed)  
-Architect  => MVC · Clean Architecture · MVVM
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Inertia.js-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="Inertia.js" />
+</p>
+
+<p align="center" style="margin-top: 10px;">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
+
+<p align="center" style="margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron.js" />
+  <img src="https://img.shields.io/badge/ElectronVite-1E40AF?style=for-the-badge&logo=vite&logoColor=white" alt="ElectronVite" />
+</p>
+
+<p align="center" style="margin-top: 10px;">
+  <img src="https://img.shields.io/badge/MVC-007ACC?style=for-the-badge" alt="MVC" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-00BFFF?style=for-the-badge" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/MVVM-FF69B4?style=for-the-badge" alt="MVVM" />
+</p>
 
 ---
 
@@ -51,4 +69,4 @@ Right now? Just trying to build awesome things and learn cooler stuff every day.
 
 ## 🤝 Let's Collaborate
 
-Open to freelance projects, collabs, or just a good tech talk ☕  
+Open to freelance projects, collabs, or just a good tech talk ☕
