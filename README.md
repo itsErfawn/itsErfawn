@@ -1,35 +1,35 @@
-# 🚀 Hey there! I'm ErFaN ⚡️
+# <p align="center" style="color:#39ff14;">ErFaN 👾</p>
 
-A passionate **Full-Stack Developer** fueled by coffee ☕ and pure code magic!  
-I build blazing-fast web & desktop apps that make people go “WOW!” 🤩
-
----
-
-### 🛠️ What I Rock With
-
-🔥 React · Next.js · TypeScript  
-🔥 PHP · Laravel  
-🔥 Node.js · Electron.js · React Native  
-🔥 Inertia.js  
-🔥 MVC · Clean Architecture · MVVM  
+<p align="center" style="color:#08f7fe;">
+  Full-Stack Developer | Code Ninja in the neon-lit digital city 🌆
+</p>
 
 ---
 
-### 💥 About Me
+### 🛠️ Tech Arsenal
 
-Coding is my playground and every line of code is a challenge I love to crush!  
-From frontend sparkle to backend power, I craft apps that don’t just work — they perform with style and speed.  
-Always on the hunt for new tech and ways to level up my skills. Let’s build something epic together! 💪
+- <span style="color:#ff6ec4;">React</span> · <span style="color:#00fff7;">Next.js</span> · <span style="color:#ff2d95;">TypeScript</span>  
+- <span style="color:#ff6ec4;">PHP</span> · <span style="color:#00fff7;">Laravel</span>  
+- <span style="color:#ff2d95;">Node.js</span> · <span style="color:#ff6ec4;">Electron.js</span> · <span style="color:#00fff7;">React Native</span>  
+- <span style="color:#ff2d95;">Inertia.js</span>  
+- MVC · Clean Architecture · MVVM  
+
+---
+
+### ⚡ About Me
+
+I'm a developer navigating the cybernetic landscape, crafting sleek and powerful apps with neon precision.  
+My passion lies in blending performance with style, coding futures one commit at a time.
 
 ---
 
 ### 📂 Projects
 
-> Wanna see my magic? Check out my pinned repos and get inspired! ✨
+> Dive into my repositories and see the future of code today.
 
 ---
 
-### 📫 Let’s Connect!
+### 📫 Connect with Me
 
 - Telegram & Instagram: [@sfri_erfan](https://t.me/sfri_erfan)  
 - LinkedIn: [its-erfan](https://www.linkedin.com/in/its-erfan/)
