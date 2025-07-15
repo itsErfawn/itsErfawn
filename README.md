@@ -34,7 +34,7 @@
 
 ---
 
-## ✌️ A lil’ about me (EN)
+## ✌️ A lil’ about me 
 
 Hey! I’m ErFaN — a dev who’s into crafting apps that **look good, work fast, and scale well**.  
 I like playing with both frontend and backend, and I’m kinda obsessed with **clean architecture** & cool dev workflows 😁  
